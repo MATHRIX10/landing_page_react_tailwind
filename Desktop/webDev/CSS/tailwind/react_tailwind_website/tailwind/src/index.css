@@ -1,0 +1,16 @@
+@tailwind base; 
+@tailwind components; 
+@tailwind utilities; 
+
+
+
+body{
+  background-color: #000300;
+
+} 
+
+/* @layer component {
+  .cata {
+    @apply text-white flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4; 
+  }
+} */
